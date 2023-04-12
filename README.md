@@ -1,5 +1,7 @@
 # test-task-editor-js
 
+Проект без докера на Vue
+
 ## Project setup
 ```
 npm install
